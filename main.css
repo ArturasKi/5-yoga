@@ -9,10 +9,6 @@ main {
     margin-left: calc(50% - 400px);
     }
 
-main {
-    margin-top: 100px;
-}
-
 img {
     float: left;
     height: 46px;
@@ -25,9 +21,19 @@ nav{
 
 a {
     display: inline-block;
+    margin-left: 20px;
+    padding-bottom: 5px;
     font-size: 18px;
     line-height: 20px;
-    margin-left: 20px;
     text-decoration: none;
     color: black;
+
+}
+
+a:hover {
+    border-bottom: 2px solid red;
+}
+
+main {
+    margin-top: 100px;
 }
