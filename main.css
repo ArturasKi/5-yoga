@@ -21,9 +21,9 @@ nav{
 
 a {
     display: inline-block;
-    margin-left: 20px;
+    margin-right: 20px;
     padding-bottom: 5px;
-    font-size: 18px;
+    font-size: 12px;
     line-height: 20px;
     text-decoration: none;
     color: black;
@@ -35,5 +35,5 @@ a:hover {
 }
 
 main {
-    margin-top: 100px;
+    margin-top: 20px;
 }
