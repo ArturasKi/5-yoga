@@ -2,6 +2,7 @@
 
 _35 group website project_
 
+_Design: [Yoga](https://cdn.dribbble.com/users/1661515/screenshots/6857288/yoga-lifestyle-shot_4x.png?compress=1&resize=1200x900&vertical=top)_
 
 ## Project features
 
